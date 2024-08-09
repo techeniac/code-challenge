@@ -21,11 +21,13 @@ This module is designed to handle the real-time update and management of a score
     
     Copy code
     
-    `{
+    ```bash
+	  {
       "user_id": "string",
       "score_delta": "integer",
       "auth_token": "string"
-    }` 
+    }
+    ``` 
     
 -   **Response**:
     -   **200 OK**: Score updated successfully.
