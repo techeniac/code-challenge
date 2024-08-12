@@ -118,7 +118,7 @@ This module is designed to handle the real-time update and management of a score
 
 ### Diagram
 
-![Flow of Execution](./src/problem6/images/flow.jpg)
+![Flow of Execution](./images/flow.jpg)
 
 ### Improvements
 
