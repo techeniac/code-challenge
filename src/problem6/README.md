@@ -133,7 +133,7 @@ This module is designed to handle the real-time update and management of a score
 
 ----------
 
-This specification should provide the backend engineering team with all necessary information to implement the module. Any additional comments or questions can be discussed in subsequent meetings.
+This specification should provide the backend engineering team with all necessary information to implement the module.
 
 ----------
 
